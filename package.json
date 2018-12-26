@@ -21,6 +21,7 @@
     "express": "^4.16.4",
     "jsonwebtoken": "^8.4.0",
     "mongoose": "^5.4.0",
+    "raven": "^2.6.4",
     "require-dir": "^1.2.0"
   }
 }
